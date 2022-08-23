@@ -802,6 +802,10 @@ section.project {
 }
 .footer .credit a {
   color: #ffffff;
+  display: inline-block;
+}
+.footer .credit a:hover {
+  color: #0077ff;
 }
 @-webkit-keyframes pound {
   to {
